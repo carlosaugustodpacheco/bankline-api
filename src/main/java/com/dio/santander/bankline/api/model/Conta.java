@@ -1,5 +1,8 @@
 package com.dio.santander.bankline.api.model;
 
+import javax.persistence.Embeddable;
+
+@Embeddable
 public class Conta {
 	private Long numero;
 	private double saldo;
