@@ -3,6 +3,7 @@ Projeto feito na Santander DEV Week em parceira com a DIO.
 
 A API REST foi desenvolvida na arquitetura do Spring Framework + Springboot estruturado no padrão MVC.
 A gestão é feita com base na diagramação abaixo.
+
 ![image](https://user-images.githubusercontent.com/68930974/167323932-95e71bbc-9df6-4792-bcdf-424dde54c42e.png)
 
 
