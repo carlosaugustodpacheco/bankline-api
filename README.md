@@ -1,9 +1,6 @@
-# Getting Started
+Projeto Back-End em Java que propõe um Bankline para gestão de correntistas e movimentações de receitas e despesas. 
+Projeto feito na Santander DEV Week em parceira com a DIO.
 
-### Reference Documentation
-For further reference, please consider the following sections:
+![image](https://user-images.githubusercontent.com/68930974/167323654-5df81e86-d25a-4f19-9c21-e830fff0ce29.png)
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/#build-image)
 
